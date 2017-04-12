@@ -1,5 +1,98 @@
+
+
+.header {
+
+border: #008080 ;
+color: white ;
+font-weight: bold;
+position: absolute;
+right: 50px;
+top: 20px;
+text-align: right;
+
+
+}
+
+.coda {
+
+  border : #008080  ;
+  color: white ;
+  font-weight: bold ;
+  position: absolute;
+  top: 190px;
+  right: 450px;
+
+}
+.bordureblue {
+
+  background-color: #008080 ;
+  width: 5000px;
+  height: 300px ;
+
+}
+
+.bordureblack {
+
+
+ background-color: #696969;
+ height: 300px;
+
+}
+
+.log1 {
+
+position: absolute;
+top: 50px ;
+left: 20px ;
+height: 10px;
+width: 10px;
+
+}
+
+
 .barre1 {
-  border-left: black solid ;
+  border-right: black solid ;
+  position: absolute;
+
+}
+
+.img1 {
+position: absolute;
+left: 200px ;
+top: 320px;
+
+}
+
+.img2 {
+position:absolute;
+right: 200px ;
+top: 320px;
+
+}
+
+.img3 {
+position:absolute;
+left: 200px ;
+top: 550px ;
+
+}
+
+.img4 {
+position: absolute;
+right: 200px;
+top: 550px;
+
+}
+
+h1 {
+
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+
 }
 
 section {
@@ -10,6 +103,25 @@ background-color:
 
 }
 
-article {
+input {
+  position: absolute;
+  bottom: -200px;
+  right: 330px;
+  height: 20px;
+  width: 800px;
+}
+
+.bouton {
+
+  text-align: center;
+  color: white ;
+  font-weight: bold;
+  border: solid black;
+  background-color: #008080 ;
+  position:absolute;
+  bottom: -200px;
+  right: 250px;
+  width: 60px;
+  height: 20px; 
 
 }
